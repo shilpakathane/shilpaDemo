@@ -1,2 +1,0 @@
-# shilpaDemo
-projectDemo
